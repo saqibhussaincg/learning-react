@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.headingtwo{
+  background: bisque;
+  color: blueviolet;
+  width: 100vw;
+  height: 40px;
+  font-family: 'Baloo Bhaina 2', cursive;
+}
