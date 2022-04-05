@@ -25,7 +25,7 @@ function MiniProject01() {
       <>
     <div>
         <h1 style={{ background : 'lightblue'}}>Mini Project 01</h1>
-
+   
         <h1> Hello Sir, <span style={cssStyle}>{greetings}</span> </h1>
     </div>
     </>
